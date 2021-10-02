@@ -3,6 +3,11 @@
 - [Core CS](core/index.md)
 - Software Development
 
+  - Languages
+
+    - TypeScript
+      - [Basics](/software-development/languages/TypeScript/Basics.md)
+
   - Backend
     - Server-side
       - [Query String](/software-development/backend/server-side/QueryString.md)
