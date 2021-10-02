@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src='/media/images/DockerNetwork.png'/>
+![Docker Network](../../../media/images/DockerNetwork.png)
 
 On local machine, Docker runs in an isolated Docker network. Suppose we have two containers running in this network, MongoDB and Mongo Express UI.
 
@@ -13,7 +13,7 @@ Suppose there is also an external Node.js application running outside the Docker
 After deploying our app, the browser will connect to our
 Docker container (also containing the Node.js application) using the localhost:PORT in a similar fashion
 
-<img src='/media/images/DockerNetwork2.png' title='Docker network'/>
+![Docker Network](../../../media/images/DockerNetwork2.png)
 
 Commands:
 

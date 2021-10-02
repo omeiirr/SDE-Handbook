@@ -13,4 +13,4 @@
       - [CI-CD Overview](software-development/devops/docker/CI_CD_Overview.md)
       - [Docker Network](software-development/devops/docker/DockerNetwork.md)
   - Miscellaneous
-    - [Google Efficiently](/software-development/miscellaneous/GoogleEfficiently.md)
+    - [Google Efficiently](/software-development/Miscellaneous/GoogleEfficiently.md)
