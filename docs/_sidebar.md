@@ -7,6 +7,8 @@
 
     - TypeScript
       - [Basics](/software-development/languages/TypeScript/Basics.md)
+      - [Functions And Interfaces](/software-development/languages/TypeScript/FunctionsAndInterfaces.md)
+      - [TypeScript with React](/software-development/languages/TypeScript/TypescriptWithReact.md)
 
   - Backend
     - Server-side
